@@ -1,4 +1,4 @@
-Hyper market Sales data for 117 provided in a file. Analyse the trend in sales historical data and predict the next 29 days sales.
+Hyper market Sales data for 117 days provided in a file. Analyse the trend in sales historical data and predict the next 29 days sales.
  
 R - Programming language used
 
